@@ -1,14 +1,15 @@
 # Dogs-Cats-Image-Classifier
 
 Dependencies
-Jupyter notebook
-Tensorflow 1.10
-Python 3.6
-Matplotlib
-Seaborn
-Scikit-Learn
-Pandas
-Numpy
+- Jupyter notebook
+
+- Tensorflow 1.10
+- Python 3.6
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Pandas
+- Numpy
 
 - In this case, I am working on classifier on image cats and dogs.
 

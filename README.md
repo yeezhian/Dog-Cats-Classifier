@@ -2,7 +2,7 @@
 
 - In this case, I am working on classifier on image cats and dogs.
 
-Set up :
+Step by Step Set up in Jupyter Notebook :
 - directory for train and validate data.
 - dimension of our image.
 - parameters for NN model.

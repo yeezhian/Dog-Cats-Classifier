@@ -1,6 +1,6 @@
 # Dogs-Cats-Image-Classifier
 
-Dependencies
+## Dependencies
 - Jupyter notebook
 
 - Tensorflow 1.10

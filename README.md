@@ -1,4 +1,4 @@
-# Dogs-Cats-Classifier
+# Dogs-Cats-Image-Classifier
 
 - In this case, I am working on classifier on image cats and dogs.
 

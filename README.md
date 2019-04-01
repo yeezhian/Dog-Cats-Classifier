@@ -11,7 +11,8 @@ Dependencies
 - Pandas
 - Numpy
 
-- In this case, I am working on classifier on image cats and dogs.
+
+In this case, I am working on classifier on image cats and dogs.
 
 Step by Step Set up in Jupyter Notebook :
 - directory for train and validate data.
